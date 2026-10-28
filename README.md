@@ -1,6 +1,6 @@
-# 🎵 AI Music Generator (Suroor AI)
+#  AI Music Generator (Suroor AI)
 
-An end-to-end AI music generation studio that produces complete, multi-variant songs from themes and lyrics, featuring custom voice cloning and conversion powered by ACE-Step and FastAPI.
+🎧 Create complete multi-variant songs from prompts with synchronized lyrics playback, voice cloning, and Google Colab GPU integration.An end-to-end AI music generation studio that produces complete, multi-variant songs from themes and lyrics, featuring custom voice cloning and conversion powered by ACE-Step and FastAPI.
 
 ---
 
